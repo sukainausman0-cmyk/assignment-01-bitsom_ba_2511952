@@ -1,0 +1,38 @@
+[
+  {
+    "product_id": "E001",
+    "category": "Electronics",
+    "name": "Smartphone",
+    "price": 25000,
+    "specs": {
+      "warranty_years": 2,
+      "voltage": "220V"
+    },
+    "features": ["Dual SIM", "5G", "128GB Storage"]
+  },
+  {
+    "product_id": "C001",
+    "category": "Clothing",
+    "name": "T-Shirt",
+    "price": 799,
+    "details": {
+      "size": "M",
+      "color": "Blue",
+      "fabric": "Cotton"
+    },
+    "available_sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "product_id": "G001",
+    "category": "Groceries",
+    "name": "Organic Milk",
+    "price": 60,
+    "expiry_date": "2024-12-15",
+    "nutrition": {
+      "calories": 120,
+      "protein_g": 8,
+      "fat_g": 5
+    },
+    "packaging": ["500ml", "1L"]
+  }
+]
